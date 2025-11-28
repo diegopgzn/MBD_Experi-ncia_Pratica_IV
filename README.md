@@ -1,4 +1,4 @@
-# Projeto SQL – Mini-mundo (Cursos Online)
+# Projeto SQL – Mini-mundo 
 
 Este repositório contém scripts SQL completos para criação e manipulação de dados em um banco relacional baseado no minimundo de cursos online.
 
